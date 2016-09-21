@@ -1,7 +1,7 @@
 # [Kobe Bryant Shot Selection](http:////www.kaggle.com/c/kobe-bryant-shot-selection)
 
 *If your name is Kobe Bryant, you take the toughest shots. It's what you do.*  
-*If you want to save 15% or more on car insurance, you ...*
+~~*If you want to save 15% or more on car insurance, you switch to GEICO. It's what you do.*~~
 
 ##Which shots did Kobe sink?
 
