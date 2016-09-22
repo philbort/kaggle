@@ -47,3 +47,7 @@ row_id,place_id
 1,6147316961 6147316961 8999137193
 etc...
 ```
+
+##Bonus
+
+Winner's [interview](http://blog.kaggle.com/2016/08/16/facebook-v-predicting-check-ins-winners-interview-1st-place-tom-van-de-wiele/), [blog](https://ttvand.github.io/Winning-approach-of-the-Facebook-V-Kaggle-competition/), and [code](https://github.com/ttvand/Facebook-V/).
