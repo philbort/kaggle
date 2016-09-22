@@ -34,8 +34,8 @@ The train and test dataset are split based on time, and the public/private leade
 
 ##Evaluation
 
-Submissions are evaluated according to the [Mean Average Precision @3](https://www.kaggle.com/wiki/MeanAveragePrecision)  (MAP@3):
-MAP@3=1|U|∑u=1|U|∑k=1min(3,n)P(k)
+Submissions are evaluated according to the [Mean Average Precision @3](https://www.kaggle.com/wiki/MeanAveragePrecision)  (MAP@3):  
+MAP@3=1|U|∑u=1|U|∑k=1min(3,n)P(k)  
 where |U| is the number of check in events, P(k) is the precision at cutoff k, n is the number of predicted businesses. 
 
 ##Submission File
