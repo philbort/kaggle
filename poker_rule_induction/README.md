@@ -3,7 +3,7 @@
 ![ScreenShot](ivey.jpg)
 
 *You don't need to be Phil Ivey to know the hand rankings.*  
-*Any average no home Jerome should be able to do it.*
+*Your average no home Jerome should be able to do it.*
 
 ##Determine the poker hand of five playing cards
 
