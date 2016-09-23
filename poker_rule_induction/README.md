@@ -1,6 +1,7 @@
 #[Poker Rule Induction](https://www.kaggle.com/c/poker-rule-induction)
 
 ![ScreenShot](ivey.jpg)
+
 *You don't need to be Phil Ivey to know the hand rankings.*  
 *Any average no home Jerome should be able to do it.*
 
