@@ -1,6 +1,6 @@
 #[Poker Rule Induction](https://www.kaggle.com/c/poker-rule-induction)
 
-![ScreenShot](ivey.jpg)
+![ScreenShot](images/ivey.jpg)
 
 *You don't need to be Phil Ivey to know the hand rankings.*  
 *Your average no home Jerome should be able to do it.*
@@ -9,7 +9,7 @@
 
 Your friend bailed last minute on poker night? Before giving up on a much-needed evening of bad bluffs and quarter buy ins, light a cigar and get familiar with the rules of the game. Each record in this competition consists of five playing cards and an attribute representing the poker hand. You are asked to predict the best hand you can play based on the cards you've been dealt. 
 
-![ScreenShot](dogs_playing_poker.jpg)
+![ScreenShot](images/dogs_playing_poker.jpg)
 
 The order of cards is important, which means there are 480 possible Royal Flush hands instead of just four. Identify those, and the other 311,875,200 possible hands correctly, and you’re in the money!
 
